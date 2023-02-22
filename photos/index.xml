@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on My first Hugo blog</title>
+    <link>https://mattcantcode.github.io/photos/</link>
+    <description>Recent content in Photos on My first Hugo blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Feb 2023 23:15:47 +0000</lastBuildDate><atom:link href="https://mattcantcode.github.io/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thumbnails</title>
+      <link>https://mattcantcode.github.io/photos/thumbnails/thumbnails/</link>
+      <pubDate>Wed, 22 Feb 2023 23:15:47 +0000</pubDate>
+      
+      <guid>https://mattcantcode.github.io/photos/thumbnails/thumbnails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photo 2</title>
+      <link>https://mattcantcode.github.io/photos/photo-2/</link>
+      <pubDate>Wed, 22 Feb 2023 23:15:33 +0000</pubDate>
+      
+      <guid>https://mattcantcode.github.io/photos/photo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photo 1</title>
+      <link>https://mattcantcode.github.io/photos/photo-1/</link>
+      <pubDate>Wed, 22 Feb 2023 23:15:25 +0000</pubDate>
+      
+      <guid>https://mattcantcode.github.io/photos/photo-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
