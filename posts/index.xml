@@ -6,7 +6,34 @@
     <description>Recent content in Posts on My first Hugo blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Feb 2023 00:13:46 +0000</lastBuildDate><atom:link href="https://mattcantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 23:15:11 +0000</lastBuildDate><atom:link href="https://mattcantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 3</title>
+      <link>https://mattcantcode.github.io/posts/day-3/</link>
+      <pubDate>Wed, 22 Feb 2023 23:15:11 +0000</pubDate>
+      
+      <guid>https://mattcantcode.github.io/posts/day-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Day 2</title>
+      <link>https://mattcantcode.github.io/posts/day-2/</link>
+      <pubDate>Wed, 22 Feb 2023 23:15:08 +0000</pubDate>
+      
+      <guid>https://mattcantcode.github.io/posts/day-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Day 1</title>
+      <link>https://mattcantcode.github.io/posts/day-1/</link>
+      <pubDate>Wed, 22 Feb 2023 23:15:04 +0000</pubDate>
+      
+      <guid>https://mattcantcode.github.io/posts/day-1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Test post!</title>
       <link>https://mattcantcode.github.io/posts/test/</link>
